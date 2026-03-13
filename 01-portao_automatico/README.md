@@ -1,5 +1,6 @@
 # PROJETO 01 – PORTÃO AUTOMÁTICO
 
+![diagrama_comando](https://github.com/marcostulliosouza/comandos-eletricos/blob/main/01-portao_automatico/imagem_diagrama.png)
 
 ## DESCRIÇÃO
 
