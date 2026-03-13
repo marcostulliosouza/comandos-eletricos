@@ -1,1 +1,63 @@
-# comandos-eletricos
+# COMANDOS ELÉTRICOS – DESAFIOS E PROJETOS (CADE_SIMU)
+
+Este repositório reúne **desafios e projetos de Comandos Elétricos** desenvolvidos utilizando o **CADe_SIMU** para simulação de circuitos elétricos e lógica de controle.
+
+Os projetos abordam diferentes aplicações de **automação e controle industrial**, utilizando elementos clássicos de comandos elétricos como contatores, botões de acionamento, sensores, fim de curso e dispositivos de sinalização.
+
+Cada pasta contém um **projeto ou desafio independente**, com sua respectiva descrição, diagramas e arquivos de simulação.
+
+---
+
+## OBJETIVOS DO REPOSITÓRIO
+
+Este repositório foi criado com os seguintes objetivos:
+
+**APRENDIZADO**
+Praticar conceitos de comandos elétricos, lógica de controle e automação através da implementação de exercícios e desafios.
+
+**CONSULTA**
+Manter um conjunto organizado de exemplos de circuitos e aplicações que possam servir como material de referência para estudo.
+
+**PORTFÓLIO**
+Documentar projetos e soluções desenvolvidas ao longo dos estudos na área de automação e comandos elétricos.
+
+---
+
+## DESAFIOS E PROJETOS
+
+Abaixo estão alguns dos projetos disponíveis no repositório:
+
+| PROJETO                        | DESCRIÇÃO                                                                                                             |
+| ------------------------------ | --------------------------------------------------------------------------------------------------------------------- |
+| PROJETO 01 – PORTÃO AUTOMÁTICO | Controle de abertura e fechamento automático de um portão utilizando botões de acionamento e sensores de fim de curso |
+
+Novos projetos e desafios serão adicionados gradualmente, explorando diferentes aplicações de **comandos elétricos e automação**.
+
+---
+
+## FERRAMENTA UTILIZADA
+
+**CADe_SIMU**
+
+Software utilizado para simulação de circuitos de comandos elétricos, permitindo testar a lógica de funcionamento dos sistemas antes da implementação real.
+
+---
+
+## ESTRUTURA DO REPOSITÓRIO
+
+```
+COMANDOS-ELETRICOS-CADE-SIMU/
+│
+├── PROJETO-01-PORTAO-AUTOMATICO/
+│   ├── README.md
+│   ├── DIAGRAMAS/
+│   └── SIMULACAO/
+│
+└── README.md
+```
+
+---
+
+## AUTOR
+
+Marcos Tullio Silva de Souza
