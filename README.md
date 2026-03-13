@@ -50,8 +50,8 @@ COMANDOS-ELETRICOS-CADE-SIMU/
 │
 ├── PROJETO-01-PORTAO-AUTOMATICO/
 │   ├── README.md
-│   ├── DIAGRAMAS/
-│   └── SIMULACAO/
+│   ├── DIAGRAMA.cad
+│   └── IMAGEM_DIAGRAMA.cad
 │
 └── README.md
 ```
