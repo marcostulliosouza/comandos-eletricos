@@ -48,7 +48,11 @@ Software utilizado para simulação de circuitos de comandos elétricos, permiti
 ```
 COMANDOS-ELETRICOS-CADE-SIMU/
 │
-├── PROJETO-01-PORTAO-AUTOMATICO/
+├── 00-intertavamento/
+│   ├── README.md
+│   ├── DIAGRAMA.cad
+│   └── IMAGEM_DIAGRAMA.cad
+├── 01-portao_automatico/
 │   ├── README.md
 │   ├── DIAGRAMA.cad
 │   └── IMAGEM_DIAGRAMA.cad
