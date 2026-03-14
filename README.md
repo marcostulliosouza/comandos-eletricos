@@ -29,11 +29,12 @@ Abaixo estão alguns dos projetos disponíveis no repositório:
 
 | PROJETO                        | DESCRIÇÃO                                                                                                             |
 | ------------------------------ | --------------------------------------------------------------------------------------------------------------------- |
-| 00-intertravamento             | Acionamento de dois motores, garantindo que apenas um motor possa operar por vez, evitando acionamento simultâneo     |
-| 01-portao_automatico           | Controle de abertura e fechamento automático de um portão utilizando botões de acionamento e sensores de fim de curso |
-| 02-partida_estrela_triangulo   | Controle de partida estrela-triangulo para motor trifásico |
-| 03-motor_com_reversao  | Controle de reversão de giro de um motor trifásico |
-| 04-sequencia_motores  | Controle para acionamento de uma sequência de 3 motores trifásicos |
+|  [00-intertravamento](https://github.com/marcostulliosouza/comandos-eletricos/tree/main/00-intertravamento)            | Acionamento de dois motores, garantindo que apenas um motor possa operar por vez, evitando acionamento simultâneo     |
+| [01-portao_automatico](https://github.com/marcostulliosouza/comandos-eletricos/tree/main/01-portao_automatico)           | Controle de abertura e fechamento automático de um portão utilizando botões de acionamento e sensores de fim de curso |
+| [02-partida_estrela_triangulo](https://github.com/marcostulliosouza/comandos-eletricos/tree/main/02-partida_estrela_triangulo)   | Controle de partida estrela-triangulo para motor trifásico |
+| [03-motor_com_reversao](https://github.com/marcostulliosouza/comandos-eletricos/tree/main/03-motor_com_reversao)  | Controle de reversão de giro de um motor trifásico |
+| [04-sequencia_motores](https://github.com/marcostulliosouza/comandos-eletricos/tree/main/04-sequencia_motores)  | Controle para acionamento de uma sequência de 3 motores trifásicos |
+| [05-esteira_com_sensor](https://github.com/marcostulliosouza/comandos-eletricos/tree/main/05-esteira_com_sensor)  | Simular uma esteira transportadora. |
 
 
 Novos projetos e desafios serão adicionados gradualmente, explorando diferentes aplicações de **comandos elétricos e automação**.
@@ -70,6 +71,10 @@ COMANDOS-ELETRICOS-CADE-SIMU/
 │   ├── DIAGRAMA.cad
 │   └── IMAGEM_DIAGRAMA.cad
 ├── 04-sequencia_motores/
+│   ├── README.md
+│   ├── DIAGRAMA.cad
+│   └── IMAGEM_DIAGRAMA.cad
+├── 05-esteira_com_sensor
 │   ├── README.md
 │   ├── DIAGRAMA.cad
 │   └── IMAGEM_DIAGRAMA.cad
