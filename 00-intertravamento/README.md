@@ -1,4 +1,4 @@
-# PROJETO 02 – INTERTRAVAMENTO DE DOIS MOTORES
+# PROJETO 00 – INTERTRAVAMENTO DE DOIS MOTORES
 
 ![diagrama\_comando](https://github.com/marcostulliosouza/comandos-eletricos/blob/main/00-intertravamento/imagem_diagrama.png)
 
