@@ -1,6 +1,6 @@
 # PROJETO 04 – SEQUÊNCIA DE PARTIDA DE MOTORES
 
-![diagrama\_comando]()
+![diagrama\_comando](https://github.com/marcostulliosouza/comandos-eletricos/blob/main/04-sequencia_motores/imagem_diagrama.png)
 
 ## DESCRIÇÃO
 
