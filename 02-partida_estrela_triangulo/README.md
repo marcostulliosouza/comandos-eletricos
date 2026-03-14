@@ -1,6 +1,6 @@
 # PROJETO 03 – PARTIDA ESTRELA-TRIÂNGULO
 
-![diagrama\_comando](https://github.com/SEU-USUARIO/SEU-REPOSITORIO/imagem_diagrama.png)
+![diagrama\_comando](https://github.com/marcostulliosouza/comandos-eletricos/blob/main/02-partida_estrela_triangulo/imagem_diagrama.png)
 
 ## DESCRIÇÃO
 
