@@ -1,6 +1,6 @@
-# PROJETO 04 – MOTOR TRIFÁSICO COM REVERSÃO DE GIRO
+# PROJETO 03 – MOTOR TRIFÁSICO COM REVERSÃO DE GIRO
 
-![diagrama\_comando](https://github.com/SEU-USUARIO/SEU-REPOSITORIO/imagem_diagrama.png)
+![diagrama\_comando](https://github.com/marcostulliosouza/comandos-eletricos/blob/main/03-motor_com_reversao/imagem_diagrama.png)
 
 ## DESCRIÇÃO
 
