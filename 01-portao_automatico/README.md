@@ -68,7 +68,7 @@ Este exercício tem como objetivo praticar:
 ## ESTRUTURA DO REPOSITÓRIO
 
 ```
-PROJETO-PORTAO-AUTOMATICO/
+01-portao_automatico/
 │
 ├── README.md
 ├── IMAGEM_DIAGRAMA.png
