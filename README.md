@@ -29,7 +29,8 @@ Abaixo estão alguns dos projetos disponíveis no repositório:
 
 | PROJETO                        | DESCRIÇÃO                                                                                                             |
 | ------------------------------ | --------------------------------------------------------------------------------------------------------------------- |
-| PROJETO 01 – PORTÃO AUTOMÁTICO | Controle de abertura e fechamento automático de um portão utilizando botões de acionamento e sensores de fim de curso |
+| 00-intertravamento             | Acionamento de dois motores, garantindo que apenas um motor possa operar por vez, evitando acionamento simultâneo     |
+| 01-portao_automatico           | Controle de abertura e fechamento automático de um portão utilizando botões de acionamento e sensores de fim de curso |
 
 Novos projetos e desafios serão adicionados gradualmente, explorando diferentes aplicações de **comandos elétricos e automação**.
 
