@@ -31,6 +31,8 @@ Abaixo estão alguns dos projetos disponíveis no repositório:
 | ------------------------------ | --------------------------------------------------------------------------------------------------------------------- |
 | 00-intertravamento             | Acionamento de dois motores, garantindo que apenas um motor possa operar por vez, evitando acionamento simultâneo     |
 | 01-portao_automatico           | Controle de abertura e fechamento automático de um portão utilizando botões de acionamento e sensores de fim de curso |
+| 02-partida_estrela_triangulo   | Controle de partida estrela-triangulo para motor trifásico |
+
 
 Novos projetos e desafios serão adicionados gradualmente, explorando diferentes aplicações de **comandos elétricos e automação**.
 
@@ -54,6 +56,10 @@ COMANDOS-ELETRICOS-CADE-SIMU/
 │   ├── DIAGRAMA.cad
 │   └── IMAGEM_DIAGRAMA.cad
 ├── 01-portao_automatico/
+│   ├── README.md
+│   ├── DIAGRAMA.cad
+│   └── IMAGEM_DIAGRAMA.cad
+├── 02-partida_estrela_triangulo/
 │   ├── README.md
 │   ├── DIAGRAMA.cad
 │   └── IMAGEM_DIAGRAMA.cad
