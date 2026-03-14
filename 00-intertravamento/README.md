@@ -89,7 +89,7 @@ Este exercício tem como objetivo praticar:
 ## ESTRUTURA DO REPOSITÓRIO
 
 ```
-PROJETO-INTERTRAVAMENTO-MOTORES/
+00-intertravamento/
 │
 ├── README.md
 ├── IMAGEM_DIAGRAMA.png
