@@ -33,6 +33,7 @@ Abaixo estão alguns dos projetos disponíveis no repositório:
 | 01-portao_automatico           | Controle de abertura e fechamento automático de um portão utilizando botões de acionamento e sensores de fim de curso |
 | 02-partida_estrela_triangulo   | Controle de partida estrela-triangulo para motor trifásico |
 | 03-motor_com_reversao  | Controle de reversão de giro de um motor trifásico |
+| 04-sequencia_motores  | Controle para acionamento de uma sequência de 3 motores trifásicos |
 
 
 Novos projetos e desafios serão adicionados gradualmente, explorando diferentes aplicações de **comandos elétricos e automação**.
@@ -65,6 +66,10 @@ COMANDOS-ELETRICOS-CADE-SIMU/
 │   ├── DIAGRAMA.cad
 │   └── IMAGEM_DIAGRAMA.cad
 ├── 03-motor_com_reversao/
+│   ├── README.md
+│   ├── DIAGRAMA.cad
+│   └── IMAGEM_DIAGRAMA.cad
+├── 04-sequencia_motores/
 │   ├── README.md
 │   ├── DIAGRAMA.cad
 │   └── IMAGEM_DIAGRAMA.cad
