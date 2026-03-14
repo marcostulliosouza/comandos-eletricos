@@ -1,6 +1,6 @@
 # PROJETO 05 – ESTEIRA TRANSPORTADORA COM SENSOR DE PRESENÇA
 
-![diagrama\_comando](h)
+![diagrama\_comando](https://github.com/marcostulliosouza/comandos-eletricos/blob/main/05-esteira_com_sensor/imagem_diagrama.png)
 
 ## DESCRIÇÃO
 
